@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>JSONPlaceholder</title>
+    <style>
+      #post-container {
+        max-width: 1160px;
+        margin: 50px auto;
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        grid-gap: 20px;
+      }
+      .post-card{
+        border: 1px solid #ddd;
+        padding; 10px;
+      }
+    </style>
+  </head>
+  <body>
+    <div>
+      <button onclick="getUser()">Get User</button>
+      <button onclick="getPosts()">Get Posts</button>
+      <button onclick="createPost()">Create Post</button>
+    </div>
+    <div id="post-container">
+    </div>
+
+    <script src="./[2] fetch-data.js"></script>
+  </body>
+</html>

@@ -6,6 +6,13 @@
 
 ## Daily Log
 
+### 2026-02-09 | Day 6
+- **Module:** Mod 04 - Working with APIs & JSON
+- **Completed:**
+  - `json-intro.js` - JavaScript Objects & JSON (stringify, parse)
+  - `fetch-data.js` - Fetch API (GET, POST requests)
+  - `index.html` - HTML page for displaying API data
+
 ### 2026-02-09 | Day 5
 - **Module:** Mod 03 - JavaScript Fundamentals & Concepts
 - **Completed:**
@@ -56,7 +63,8 @@
 Mission Restart/
 ├── Mod 01/           # Modern JavaScript (ES6+) Features
 ├── Mod 02/           # Object-Oriented JavaScript
-└── Mod 03/           # JavaScript Fundamentals & Concepts
+├── Mod 03/           # JavaScript Fundamentals & Concepts
+└── Mod 04/           # Working with APIs & JSON
 ```
 
 ---
@@ -66,6 +74,7 @@ Mission Restart/
 - [x] Complete Mod 01 - ES6+ Features
 - [x] Complete Mod 02 - OOP Concepts
 - [x] Complete Mod 03 - JavaScript Fundamentals
+- [x] Complete Mod 04 - Working with APIs & JSON
 - [ ] Continue to next modules
 - [ ] Build practice projects
 - [ ] Master JavaScript fundamentals
