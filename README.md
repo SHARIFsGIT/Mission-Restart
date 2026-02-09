@@ -6,6 +6,19 @@
 
 ## Daily Log
 
+### 2026-02-09 | Day 5
+- **Module:** Mod 03 - JavaScript Fundamentals & Concepts
+- **Completed:**
+  - `data-type.js` - Data types (primitives vs non-primitives)
+  - `undefined.js` - Understanding undefined values
+  - `truthy.js` - Truthy and falsy values checker
+  - `triple-equal.js` - Equality comparison (== vs ===)
+  - `scope.js` - JavaScript scope (global, function, block)
+  - `callback.js` - Callback functions and patterns
+  - `pass-by-reference.js` - Pass by value vs pass by reference
+  - `closure.js` - Closures and private variables
+  - `increment.js` - Increment operators (+=, ++, --)
+
 ### 2026-02-06 | Day 4
 - **Module:** Mod 02 - Object-Oriented JavaScript
 - **Completed:**
@@ -42,7 +55,8 @@
 ```
 Mission Restart/
 ├── Mod 01/           # Modern JavaScript (ES6+) Features
-└── Mod 02/           # Object-Oriented JavaScript
+├── Mod 02/           # Object-Oriented JavaScript
+└── Mod 03/           # JavaScript Fundamentals & Concepts
 ```
 
 ---
@@ -51,10 +65,11 @@ Mission Restart/
 
 - [x] Complete Mod 01 - ES6+ Features
 - [x] Complete Mod 02 - OOP Concepts
+- [x] Complete Mod 03 - JavaScript Fundamentals
 - [ ] Continue to next modules
 - [ ] Build practice projects
 - [ ] Master JavaScript fundamentals
 
 ---
 
-*Last Updated: 2026-02-06*
+*Last Updated: 2026-02-09*
